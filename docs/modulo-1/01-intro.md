@@ -15,11 +15,6 @@ sidebar_label: 01) Introducción a la Informática
 
 ### 📝 Contenidos
 
-**Bienvenida a Ada**
-
-- Modalidad de cursada. Dinámica de la clase. Consultas fuera de horario. Proyectos. Plazos de entrega. Requisitos de aprobación de cursada.
-- Herramientas a utilizar durante la cursada: Zoom, Git, Discord.
-- Canales de comunicación.
 
 **Introducción**
 
@@ -30,11 +25,17 @@ sidebar_label: 01) Introducción a la Informática
 
 ### 🚀 Recursos de la clase
 
-📆 14/09/2020
+📆 09/02/2021
 
 📹 Grabación
 
-📙 [Teoría](https://drive.google.com/file/d/1h4CXysQHGUpp1ECL3RSIa_P4DrSKhsMn/view)
+[VIDEO](https://us02web.zoom.us/rec/share/f-4iqlU4CDSafClQma13eZmieF8BNMZH14zcUrzraq_ibSUdefyJi5CjwDUhtSI6.UnsTpgwih_rsnBGe)
+codigo acceso: JEYdc8us!d7
+
+📽 Presentación
+
+[Introduccion a la Informatica](https://programa-6ta-backend-online.adaitw.org/clases/01/Introducci%C3%B3n+a+la+Informatica.pdf)
+
 
 ---
 
