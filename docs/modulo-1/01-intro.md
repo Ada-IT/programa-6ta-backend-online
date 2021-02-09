@@ -34,7 +34,7 @@ codigo acceso: JEYdc8us!d7
 
 📽 Presentación
 
-[Introduccion a la Informatica](https://programa-6ta-backend-online.adaitw.org/clases/01/Introducci%C3%B3n+a+la+Informatica.pdf)
+[Introduccion a la Informatica](https://6ta-backend-online.adaitw.org/clases/01/Introducci%C3%B3n+a+la+Informatica.pdf)
 
 
 ---
