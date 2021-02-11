@@ -38,7 +38,7 @@ _En español_
 - [Programa Informatico](https://concepto.de/programa-informatico/#ixzz5tOVnOPS7)
 - [Software del Sistema](https://concepto.de/software-de-sistema/#ixzz5tVI1VTwz)
 - [Sistema Operativo](https://concepto.de/sistema-operativo/#ixzz5tVJEl2LJ)
-- [Software de Aplicacion]("https://concepto.de/software-de-aplicacion/#ixzz5tVLpd6EI)
+- [Software de Aplicacion](https://concepto.de/software-de-aplicacion/#ixzz5tVLpd6EI)
 - [Hardware](https://concepto.de/hardware/#ixzz5tVSQT0qA)
 - [CPU](https://concepto.de/cpu/#ixzz5tVW2bkjn)
 - [Memoria](https://concepto.de/hardware/#ixzz5tVXDevm7)
