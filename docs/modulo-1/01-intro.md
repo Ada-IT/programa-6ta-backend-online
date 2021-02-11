@@ -18,7 +18,7 @@ sidebar_label: 01) Introducción a la Informática
 
 **Introducción**
 
-- Introduccion a la Informática: Historia de la Computación
+- Introduccion a la Informática: Historia de la Computación.
 - Introducción a Programas de computación, algoritmos, pseudocódigos, DFDs, lenguaje de máquina y de programación.
 
 ---
