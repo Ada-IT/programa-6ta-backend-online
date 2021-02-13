@@ -25,9 +25,9 @@ codigo acceso: clkruD5d!(
 
 [Ejercicios](https://6ta-backend-online.adaitw.org/clases/03/Ejercicios%20DFD-2021-02-12.txt)
 
-[Algoritmos,Pseudocodigo y DFD](https://6ta-backend-online.adaitw.org/clases/03/Algoritmo.pdf)
+[Algoritmos,Pseudocodigo y DFD](https://6ta-backend-online.adaitw.org/clases/03/ALGORITMO.pdf)
 
 
-[Algotimo, Pseudocodiog y DFD Teoria](https://6ta-backend-online.adaitw.org/clases/03/Teoria.pdf)
+[Algotimo, Pseudocodiog y DFD Teoria](https://6ta-backend-online.adaitw.org/clases/03/TEORIA.pdf)
 
 ---
