@@ -10,6 +10,8 @@ sidebar_label: 04) Algoritmos - pseudocodigos - DFD Sentencia IF
 
 - Pseudocodigo y DFD: Algoritmos y Pseudocodigos y DFD Sentencia de control IF.
 
+En esta clase vimos como podemos hacer que un programa, cambie de flujo de ejecucion dependiendo de diferentes condiciones. Esas condiciones nos van a introducir a un nuevo tipo de dato Booleano que nos dara como resultado algo que es Verdadero/Falso, Si/No, Encendido/Apagado para poder determinar si algo se cumple o no. Tambien vimos como diferentes condiciones se pueden agrupar y evaluar usando el AND(Y) y OR(o)
+
 ---
 
 ### 🚀 Recursos de la clase
