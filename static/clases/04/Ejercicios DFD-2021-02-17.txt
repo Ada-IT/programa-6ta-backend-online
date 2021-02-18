@@ -1,0 +1,12 @@
+******* Ejercicio 1: 
+
+Dados 2 números A y B, imprimir si A es mayor a B, en caso contrario que imprima "A NO es mayor a B"
+
+******* Ejercicio 2: 
+
+Dado un triángulo representado por sus lados L1, L2, L3, determinar e imprimir una leyenda según sea: equilátero, isósceles o escálenos.
+
+
+******* Ejercicio 3:
+
+Dado un numero que representa un año, imprimir si es un año bisiesto
