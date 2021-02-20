@@ -5,7 +5,9 @@ module.exports = {
       'modulo-1/clase-01',
       'modulo-1/clase-02',
       'modulo-1/clase-03',
-      'modulo-1/clase-04'
+      'modulo-1/clase-04',
+      'modulo-1/clase-05',
+      
     ],
   },
 }
