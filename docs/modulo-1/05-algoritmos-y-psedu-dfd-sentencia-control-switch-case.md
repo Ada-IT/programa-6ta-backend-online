@@ -20,7 +20,7 @@ Previamente vimos como a traves de la sentencia IF podiamos controlar el flujo d
 
 📹 Grabación
 
-[VIDEO](https://us02web.zoom.us/rec/share/SsLS7NEDzpSaXcD3igEB-ruzBQGr1aC4M5h8YrHPFfx3aJRlcvKFjiQcerHljg_g.tbbQe7W_8X3oLh91)
+[VIDEO](https://us02web.zoom.us/rec/share/kg-xhcB5OEuPhj79NXxjrjM3SlnyWQf2M6x2Tf-l_igekd1R6EOUljfLJ-Pjfpps._3LFlQ9Xxcpk7gU0)
 codigo acceso: CKRY8dD/!
 
 📽 Presentación
