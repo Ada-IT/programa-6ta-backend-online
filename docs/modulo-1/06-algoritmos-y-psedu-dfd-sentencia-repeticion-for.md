@@ -1,7 +1,7 @@
 ---
 id: clase-06
 title: Algoritmos, pseudocodigos y DFD Sentencia Repeticion FOR
-sidebar_label: 05) Algoritmos - pseudocodigos - DFD Sentencia FOR
+sidebar_label: 06) Algoritmos - pseudocodigos - DFD Sentencia FOR
 ---
 
 
