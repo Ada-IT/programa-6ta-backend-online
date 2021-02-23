@@ -7,6 +7,7 @@ module.exports = {
       'modulo-1/clase-03',
       'modulo-1/clase-04',
       'modulo-1/clase-05',
+      'modulo-1/clase-06'
       
     ],
   },

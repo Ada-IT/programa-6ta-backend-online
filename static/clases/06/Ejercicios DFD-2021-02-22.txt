@@ -1,0 +1,13 @@
+Ejercicio 2021 02 22. 1) Dados 10 numeros, informar CUANTOS de ellos son positivos.
+
+Ejercicio 2021 02 22. 2) Dato 10 numeros que representan la nota de 10 alumnos, informar el promedio.
+
+Ejercicio 2021 02 22. 3) Dados 10 numeros que representan la nota de 10 alumnos, informar el promedio para aquellos que hayan sacado mas de 7.
+
+
+Ejercicio 2021 02 22. 4) Dado un año, que representa la fecha de nacimiento de  una perssona, indicar si es: babyboomer, generacion X, millenial, centenial u otro
+
+Ejercicio 2021 02 22. 5) Dada una N cantidad de temperaturas de una region, se requiere informar cual fue la mayor temperatura.
+
+
+Ejercicio 2021 02 22. 6) Se pide ingresar una cantidad de personas. Por cada persona ingresar el año de nacimiento e informar el promedio de edad de aquellos que son millenials
