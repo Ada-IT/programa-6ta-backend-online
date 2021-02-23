@@ -1,6 +1,6 @@
 ---
 id: clase-05
-title: Algoritmos, pseudocodigos y DFD Sentencia Control If
+title: Algoritmos, pseudocodigos y DFD Sentencia Control Switch Case
 sidebar_label: 05) Algoritmos - pseudocodigos - DFD Sentencia SWITCH CASE
 ---
 
