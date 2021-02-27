@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+        
+        //Syste.out representa el dispositov de salida por defecto de una compu(Monitor/Consola)
+        //Dentro del printLine va un texto, encerrado en comillas ""(dobles)
+        //Este texto es un String(cadena de caracteres)
+        // "Ingrese lado 1" -> es un LITERAL
+        System.out.println("Ingrese lado 1");
+        
+        //Declaro una variable de tipo Entero(int)
+        //tipo->espacio->nombre variable
+        int l1;
+        
+        //Declaro una variable llamada Entrada, de tipo Scanner
+        //Lo que viene despues del = es la "creacion" de esa entrada.
+        //System.in representa al sistema de entrada por defecto
+        //de una computadora, que es el teclado
+        Scanner Entrada = new Scanner(System.in);
+
+        //nextInt()-> lo que hace es leer desde donde sea(en este caso Teclado)
+        //un entero.
+        l1 = Entrada.nextInt();
+
+        System.out.println("Ingrese lado 2");
+
+        int l2;
+
+        l2 = Entrada.nextInt();
+
+        System.out.println("Ingrese lado 3");
+        int l3;
+
+        l3 = Entrada.nextInt();
+
+        //declaro la variable perimetro como un entero.
+        int  perimetro;
+
+        //la suma de l1+l2+l3 se ASIGNA a perimetro
+        perimetro = l1 + l2 + l3;
+
+        System.out.println("El perimetro es " + perimetro);
+
+
+    }
+}
