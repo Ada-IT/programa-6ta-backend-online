@@ -1,0 +1,30 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+        
+    
+        //Dados 2 numeros enteros A y B, imprimir si "A es mayor a B" o si "A no es mayor que B"
+        System.out.println("Ingrese A: ");
+
+        int a; 
+
+        Scanner Entrada = new Scanner (System.in); //Crea el "Teclado"
+
+        a = Entrada.nextInt(); //Lee desde el teclado
+
+        System.out.println("Ingrese B: ");
+
+        int b;
+        b = Entrada.nextInt();
+
+        if (a>b) {
+            System.out.println("A es mayor a B.");
+        }
+        else {
+            System.out.println("A NO es mayor a B.");
+        }
+
+    }
+}
+

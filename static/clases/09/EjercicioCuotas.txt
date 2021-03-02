@@ -1,0 +1,47 @@
+import java.util.Scanner;
+
+public class App {
+    public static void main(String[] args) throws Exception {
+       
+       System.out.println("Ingrese el valor de su compra");
+        double valor;
+
+        Scanner Entrada = new Scanner(System.in);
+
+        valor = Entrada.nextDouble(); //12.5
+
+        System.out.println("1 cuota de $:" +valor);
+
+        //Las variables declaradas van a ir en CamelCase
+        //primer palabra en minuscula, siguientes la primer letra en mayuscula
+        //ej totalEn2Cuotas
+        //Camelcase es el standard que se usa en Java y Javascript
+
+        //Exite tambien el PascalCase
+        //Que cada palabra la primer letra va en Mayuscula
+        //ej TotalEn2Cuotas: usadas en C# o para variables "Globales en Java"
+
+        //Snake case
+        //eje total_en_2_cuotas
+
+        double totalEn2Cuotas;
+        totalEn2Cuotas = valor*1.05; 
+
+        double valorCuotaEn2Pagos;
+        valorCuotaEn2Pagos = totalEn2Cuotas / 2; 
+
+        System.out.println("2 cuotas de $: " + valorCuotaEn2Pagos + " total $" + totalEn2Cuotas + " (5% de recargo")); 
+
+        double totalEn6Cuotas;
+        totalEn6Cuotas = valor*1.40;
+
+        double valorCuotaEn6Pagos;
+        valorCuotaEn6Pagos = totalEn6Cuotas / 6;
+
+        System.out.println("6 cuotas de $: " + valorCuotaEn6Pagos + " total $" + totalEn6Cuotas + " (40% de recargo"));
+
+        
+
+
+    }
+}
