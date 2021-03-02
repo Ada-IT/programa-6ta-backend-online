@@ -16,7 +16,7 @@ Live share es una extension de VS Code que permite que uds a futuro(cercando) pu
 
 Los requerimientos es tener una cuenta de GITHUB mas que nada.
 
-Hoy hicimos el ejercicio de las cuotas, paso a paso y resolviendo cuestiones de normativas, nomenclaturas y estructurales y viendo que pasa si cambiamos ordenes de las instrucciones.
+Tambien hicimos el ejercicio de las cuotas, paso a paso y resolviendo cuestiones de normativas, nomenclaturas y estructurales y viendo que pasa si cambiamos ordenes de las instrucciones.
 ---
 
 Sitio GitHub
