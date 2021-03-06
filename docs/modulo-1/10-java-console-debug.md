@@ -1,14 +1,14 @@
 ---
 id: clase-10
 title: JAVA Coding App Console y Debug
-sidebar_label: 09) JAVA Coding App Console y Debug
+sidebar_label: 10) JAVA Coding App Console y Debug + Ciclo FOR
 ---
 
 
 
 ### 📝 Contenidos
 
-JAVA - Codeando Aplicaciones de Consola y debugueandola
+JAVA - Codeando Aplicaciones de Consola y debugueandola  + Ciclo FOR
 
 - JAVA - Codeando Aplicaciones de Consola y debugueandola. 
 
