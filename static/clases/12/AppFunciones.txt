@@ -1,0 +1,130 @@
+import java.util.Scanner;
+
+public class App {
+
+    //Declaro a Teclado, como una variable GLOBAL
+    //Que todos los metodos pueden acceder
+    //public(modifier accesor): que todos pueden acceder
+    //static: scope global(alcance global)
+    public static Scanner Teclado = new Scanner(System.in);
+    public static void main(String[] args) throws Exception {
+        //Dada una lista de años, contar cuantos años son bisiestos. 
+        //La lista termina cuando alguien ingresa año 0.
+        /* Cada vez que se ingrese un año,  se imprima una cabecera asi:
+
+        ============================================
+        ==========INGRESE AÑO=======================
+        !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+        ==========AQUI ABAJO=========================
+        ---------INGRESE 0 PARA TERMINAR ------------
+        +++++++++++++++++++++++++++++++++++++++++++++
+
+        */
+
+
+
+        //Resolucion de problemas en forma Procedural/Procedimental/Imperativa
+        //Ingreso del año(con el Teclado)
+        //incilizar un contador en 0
+        //hacer un while, que mientras el año ingresado no sea 0, seguir ingresando
+        //por cada año ingresado, preguntar si es bisiessto
+        //si lo es, sumar uno al contador
+        //finalmente, cuando ingresemos todos los año, imprimirmos cuantos son bisiestos.
+
+        
+        int año;
+        int contador = 0;
+
+        año = obtenerAño();
+        //0 a N, necesita al menos un valor para evaluar la condicion
+        while(año != 0) {
+
+            if (esBisiestoV4(año)){
+                contador++;
+            }
+
+            //Al final, pregunto por el siguiente año
+            año = obtenerAño();
+        }
+
+        System.out.println("La cantidad de años bisiestos es : " + contador);
+
+    }
+
+
+    //Nobre de la funcion: esBisiesto
+    //parametros de la funcion: 1 en este caso, llamado año, de tipo int.
+    //cada parametro se separa con comas.
+    //resultado de la funcion: boolean -> por que? porque este caso debe devolver true o false.
+    //public y static: por ahora lo vamos a dejar asi
+    //En algun momento del codigo de la funcion
+    //tiene que haber un "return". El return retorna a quien llamo a la funcion
+    //devolviendole el valor esperado
+    public static boolean esBisiesto(int año){
+        if (año % 4 == 0 && (año % 100 != 0 || año % 400 == 0))
+            return true; //Devolviendo verdadero: o sea, es año bisiesto
+        else
+            return false; //no es año bisiesto
+    }
+
+    public static boolean esBisiestoVNury(int año){
+
+        if ( (año % 4 == 0 && año % 100 != 0) || (año % 4 == 0 && año % 400 == 0))
+            return true;
+        else
+            return false;
+    }
+
+    public static boolean esBisiestoV3(int año){
+        return (año % 4 == 0 && (año % 100 != 0 || año % 400 == 0));
+    }
+
+    public static boolean esBisiestoV4(int año) {
+        if (año % 4 == 0 && año % 100 != 0) {
+            return true;
+        } else if (año % 400 == 0) {
+            return true;
+        } else {
+            return false;
+        }
+
+    }
+
+    //f(x)=y = x + 2
+
+    //funcion F, que recibe como parametro "x"
+    //f(x) = x + 2
+    //f(3) = 3 + 2 = 5 (5 es el resultado de la funcion, en este caso numerico)
+    //esBisiesto(2020)
+    //f(x)=y = x + 2
+
+    //funcion F, que recibe como parametro "x"
+    //f(x) = x + 2
+    //f(3) = 3 + 2 = 5 (5 es el resultado de la funcion, en este caso numerico)
+    //esBisiesto(2020)
+
+    //Es una funcion que no devuelve nada(void, la nada misma)
+    //este tipo de funciones, no necesarimente llevan un return
+    //y si llevan, solo se pone la instruccion: return
+    public static void imprimirCabeceraDeIngreso(){
+
+        //Imprime en pantalla
+        System.out.println("=============================================");
+        System.out.println("==========INGRESE AÑO=======================");
+        System.out.println("!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!");
+        System.out.println("==========AQUI ABAJO=========================");
+        System.out.println("---------INGRESE 0 PARA TERMINAR ------------");
+        System.out.println("+++++++++++++++++++++++++++++++++++++++++++++");
+        System.out.println(":)");
+
+    }
+
+    public static int obtenerAño(){
+        //nueva variable local año, diferente a la variable usada en main
+        int año;
+        imprimirCabeceraDeIngreso();
+        año = Teclado.nextInt();
+        return año;
+    }
+}
+

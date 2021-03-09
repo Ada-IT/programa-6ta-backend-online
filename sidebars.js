@@ -13,6 +13,7 @@ module.exports = {
       'modulo-1/clase-09',
       'modulo-1/clase-10',
       'modulo-1/clase-11',
+      'modulo-1/clase-12',
     ],
   },
 }
