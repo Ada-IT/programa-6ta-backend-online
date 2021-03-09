@@ -21,8 +21,8 @@ Funciones en JAVA
 
 📹 Grabación
 
-[VIDEO](https://us02web.zoom.us/rec/share/HifA33-uOHRJwajVF-JKsYbtXJnBtr8GLKocDdPtmHH2mb43JGYOoBjYgfRG1aXG.utk9kadZ2TFmjKpW)
-codigo acceso: cj78D8d!
+[VIDEO](https://us02web.zoom.us/rec/share/JyzGwWylaY3qmfUY-vAQa9Tt3UXiPvjAu-Xwt2stZkm2nyrkD_8JfYwLbqa3Ar4.9PD_PiDP8acL1hCf)
+codigo acceso: cjyr8DAU!
 
 📽 Ejercicios
 
