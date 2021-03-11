@@ -1,7 +1,7 @@
 ---
 id: clase-13
 title: Funciones y CallStack
-sidebar_label: 12) Funciones y Call Stack
+sidebar_label: 13) Funciones y Call Stack
 ---
 
 
