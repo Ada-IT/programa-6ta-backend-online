@@ -17,7 +17,8 @@ module.exports = {
       'modulo-1/clase-13',
     ],
     'Módulo 2 - Programacion Orientada a Objetos': [
-      'modulo-2/clase-14'
+      'modulo-2/clase-14',
+      'modulo-2/clase-15'
     ],
   },
 }
