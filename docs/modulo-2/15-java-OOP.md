@@ -23,7 +23,8 @@ Diagrama de Jerarquia de Clases.
 Para esta clase nos dividimos en 2 grupos y tratamos de identificar todas las clases que podrian estar involucradas en algun sistema informatico veterinario.
 Con los 2 resultados fuimos analizandolos, acomodandolos para llegar al resultado final
 
-![Docusaurus](/static/clases/15/DiagramaClasesVeterinaria.png)
+[Diagrama Clases veterinaria](https://6ta-backend-online.adaitw.org/clases/15/DiagramaClasesVeterinaria.png)
+
 
 con este resultado final, comenzaremos a hacer las clases en JAVA y crearle atributos y responsabilidades.
 
