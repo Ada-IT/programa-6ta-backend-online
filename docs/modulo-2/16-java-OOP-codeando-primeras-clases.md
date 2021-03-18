@@ -26,7 +26,7 @@ Luego las alumnas fueron codeando Insumo y Empleado, agregando atributos y algun
 [VIDEO](https://us02web.zoom.us/rec/share/iJDrUd5gllBi0LNTAGokNx45-evIsaUW_NwxkbNJ36JM9mDThE8WDfj_735gFJWF.f5xhRGH3lRaBXYgl)
 codigo acceso: DKr8D!)A
 
-### 📚 Material de lectura(OBLIGATORIO)
+### 📚 Material de lectura
 
 _En español_
 
