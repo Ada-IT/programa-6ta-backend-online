@@ -25,3 +25,17 @@ Luego las alumnas fueron codeando Insumo y Empleado, agregando atributos y algun
 
 [VIDEO](https://us02web.zoom.us/rec/share/iJDrUd5gllBi0LNTAGokNx45-evIsaUW_NwxkbNJ36JM9mDThE8WDfj_735gFJWF.f5xhRGH3lRaBXYgl)
 codigo acceso: DKr8D!)A
+
+### 📚 Material de lectura(OBLIGATORIO)
+
+_En español_
+
+
+- [Clases en Java](https://javadesdecero.es/poo/que-es-una-clase-ejemplos)
+
+Para las que quieran ir repasando un poco lo anterior, pueden usar esta que es la referencia que doy a medida que avanzamos en Objetos. A medida que avancemos iremos viendo parte de esto, pero no necesariamente todo lo que aparece alli.
+- [Fundamentos de Java](https://javadesdecero.es/fundamentos/)
+
+- [Java Basico](https://javadesdecero.es/basico/)
+
+
