@@ -1,7 +1,7 @@
 ---
 id: clase-18
 title: Metodos y Foreach para listas
-sidebar_label: 17) Metflix - Metododos y foreach para Listas 
+sidebar_label: 18) Metflix - Metododos y foreach para Listas 
 ---
 
 
