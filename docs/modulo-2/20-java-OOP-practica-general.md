@@ -1,7 +1,7 @@
 ---
 id: clase-20
 title: Practica General
-sidebar_label: 19) A codear con Alfon - Practica General 
+sidebar_label: 20) A codear con Alfon - Practica General 
 ---
 
 
