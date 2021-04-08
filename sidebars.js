@@ -26,7 +26,7 @@ module.exports = {
       'modulo-2/clase-20',
       'modulo-2/clase-21',
       'modulo-2/clase-22',
-      
+      'modulo-2/clase-23',
     ],
   },
 }
