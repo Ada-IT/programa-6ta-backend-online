@@ -1,7 +1,7 @@
 ---
 id: clase-27
 title: TP - Como vamos
-sidebar_label: 7) Como vamos
+sidebar_label: 27) Como vamos
 ---
 
 
