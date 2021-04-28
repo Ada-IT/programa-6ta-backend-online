@@ -31,6 +31,12 @@ module.exports = {
       'modulo-2/clase-25',
       'modulo-2/clase-26',
       'modulo-2/clase-27',
+      'modulo-2/clase-28',
+      'modulo-2/clase-29',
+      'modulo-2/clase-30',
+    ],
+    'Módulo 3 - Base de Datos': [
+      'modulo-3/clase-31',
     ],
   },
 }
