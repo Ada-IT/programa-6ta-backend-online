@@ -37,6 +37,7 @@ module.exports = {
     ],
     'Módulo 3 - Base de Datos': [
       'modulo-3/clase-31',
+      'modulo-3/clase-32',
     ],
   },
 }
