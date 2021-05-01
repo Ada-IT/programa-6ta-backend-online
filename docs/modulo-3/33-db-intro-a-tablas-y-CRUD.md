@@ -14,9 +14,9 @@ sidebar_label: 33) Intro a una Tabla y CRUD(ABM)
 
 ![Diagrama Entidad Relacion 1](https://6ta-backend-online.adaitw.org/clases/33/03-db-diagrama-1.png)
 
-![Diagrama Entidad Relacion 2](https://6ta-backend-online.adaitw.org/clases/33/03-db-diagrama-2.png)
+![Diagrama Entidad Relacion 2](https://6ta-backend-online.adaitw.org/clases/33/04-db-diagrama-2.png)
 
-![Diagrama Entidad Relacion 3](https://6ta-backend-online.adaitw.org/clases/33/03-db-diagrama-3.png)
+![Diagrama Entidad Relacion 3](https://6ta-backend-online.adaitw.org/clases/33/05-db-diagrama-3.png)
 
 ### 🚀 Recursos de la clase
 
