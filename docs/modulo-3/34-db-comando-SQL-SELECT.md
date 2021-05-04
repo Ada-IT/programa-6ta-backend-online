@@ -31,4 +31,6 @@ _En español_
 Dejo una serie de links sobre el formato de SQL, por el momento solo concentrarse en SELECT
 
 [SQL - Ver solo SELECT -](https://es.wikipedia.org/wiki/SQL)
+
+
 [Comandos en Español](https://thehittoslab.blogspot.com/2018/12/curso-completo-de-sql-basico-3-comandos.html)
