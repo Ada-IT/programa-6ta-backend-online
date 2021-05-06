@@ -40,6 +40,7 @@ module.exports = {
       'modulo-3/clase-32',
       'modulo-3/clase-33',
       'modulo-3/clase-34',
+      'modulo-3/clase-35',
     ],
   },
 }

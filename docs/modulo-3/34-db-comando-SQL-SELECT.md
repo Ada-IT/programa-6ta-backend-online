@@ -12,7 +12,7 @@ sidebar_label: 34) Comando SQL - SELECT
 
 Se adjunta el archivo SQL realizado en clase(Uso del Select en la tabla Cliente.sql)
 
-[Bases de datos Relacionales(SQL) y Orientadas a Documentos](https://6ta-backend-online.adaitw.org/clases/34/Uso-select-tabla-clliente.sql)
+[Ejemplos SELECT](https://6ta-backend-online.adaitw.org/clases/34/Uso-select-tabla-cliente.sql)
 
 ### 🚀 Recursos de la clase
 
