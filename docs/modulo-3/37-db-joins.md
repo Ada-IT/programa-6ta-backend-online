@@ -1,14 +1,14 @@
 ---
-id: clase-36
-title: Relaciones entre tablas - FK
-sidebar_label: 36) Relaciones entre tablas
+id: clase-37
+title: SQL Joins - INNER, LEFT, RIGHT
+sidebar_label: 37) SQL Joins - INNER, LEFT, RIGHT
 ---
 
 
 
 ### 📝 Contenidos
 
-- SQL: Seguimos con SQL. Joins, left join. Ejercitación de solicitudes del mundo real.
+- SQL: Seguimos con SQL. Joins, inner join, left join, right join. Ejercitación de solicitudes del mundo real.
 
 
 
