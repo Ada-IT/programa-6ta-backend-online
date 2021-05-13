@@ -1,7 +1,7 @@
 ---
 id: clase-38
 title: SQL aggregated queries
-sidebar_label: 38) SQL Joins - INNER, LEFT, RIGHT
+sidebar_label: 38) SQL aggregated queries
 ---
 
 
