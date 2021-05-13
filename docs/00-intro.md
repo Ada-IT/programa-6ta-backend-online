@@ -18,6 +18,7 @@ sidebar_label: 👩‍💻 Bienvenida
 
 - [📹 Link de Zoom](https://us02web.zoom.us/j/84435381151)
 - [📡 Link a Discord](https://discord.gg/4RUM8bJ)
+- [⚙ Solicitud de cambio de curso](https://adaitw.org/cambio-comision/)
 
 ## Uso de Discord
 
