@@ -25,6 +25,22 @@ CHALLENGE
 - Copiar todo el codigo y hibernate.cfg.xml del proyecto abmcliente a este nuevo proyecto. Tener en cuenta que el nuevo proyecto tiene un package diferente (ar.com.ada.creditos) es diferente al de abmcliente. Si siguieron los pasos correctamente, van a tener el proyecto creditos funcionando exactamente igual.
 Recordar tomar el hibernate.cfg.xml del de mi repo(es el que tiene configurado el user adadb) y tambien el gitignore.
 
+NOTA: si cuando ya tienen todo preparado, no corre con F5 siguen estos pasos:
+
+Ir a la seccion MAVEN, abajo a su izquierda
+
+expandirla y veran el nombre del proyecto
+
+Hacen click derecho y veran varias opciones, ejecutar en este orden antes de volver a presionar F5 o Run/Debug
+
+maven -> clean: limpia la carpeta target(donde estan los compilados)
+maven -> compile: compila el proyecto, si este paso no da bien, es porque tienen algun error de sintaxys o en el POM.xml
+
+Si esos 2 pasos estan ok pero sigue sin levantar, ejecutan:
+
+maven -> verify: verifica que tengan correctamente las dependencias y de ser el caso las vuelve a descargar.
+
+mas aldenate iremos viendo algunas otras opciones.
 
 ### 🚀 Recursos de la clase
 
