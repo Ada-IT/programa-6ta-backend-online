@@ -1,7 +1,7 @@
 ---
 id: clase-42
 title: Maven - Hibernate Annotations
-sidebar_label: 41) Maven - Hibernate y JPA
+sidebar_label: 42) Maven - Hibernate y JPA
 ---
 
 
