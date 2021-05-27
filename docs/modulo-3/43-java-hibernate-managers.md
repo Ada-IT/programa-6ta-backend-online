@@ -1,7 +1,7 @@
 ---
 id: clase-43
 title: Hibernate Errores
-sidebar_label: 42) Hibernate Errores varios
+sidebar_label: 43) Hibernate Errores varios
 ---
 
 
