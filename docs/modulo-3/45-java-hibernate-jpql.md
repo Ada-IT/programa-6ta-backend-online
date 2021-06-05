@@ -19,7 +19,7 @@ https://www.tutorialspoint.com/es/jpa/jpa_jpql.htm
 
 ### 🚀 Recursos de la clase
 
-📆 01/06/2021
+📆 31/05/2021
 
 📹 Grabación
 
