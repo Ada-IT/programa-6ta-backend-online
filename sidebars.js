@@ -53,7 +53,7 @@ module.exports = {
       'modulo-3/clase-45',
       'modulo-3/clase-46',
     ],
-    'Módulo 4 - WebAPI True Backender': [
+    'Módulo 4 - WebAPI: True Backender': [
       'modulo-4/clase-47',
     ],
   },
