@@ -55,6 +55,9 @@ module.exports = {
     ],
     'Módulo 4 - WebAPI: True Backender': [
       'modulo-4/clase-47',
+      'modulo-4/clase-48',
+      'modulo-4/clase-49',
+      'modulo-4/clase-50',
     ],
   },
 }
