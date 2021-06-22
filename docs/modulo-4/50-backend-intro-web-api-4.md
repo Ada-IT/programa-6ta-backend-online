@@ -88,7 +88,7 @@ http://www.tacs-utn.com.ar/Home/apuntes/hibernate---mapping-y-relaciones
 
 ### 🚀 Recursos de la clase
 
-📆 12/06/2021
+📆 11/06/2021
 
 📹 Grabación
 

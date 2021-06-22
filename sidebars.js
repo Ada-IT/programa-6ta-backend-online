@@ -58,6 +58,9 @@ module.exports = {
       'modulo-4/clase-48',
       'modulo-4/clase-49',
       'modulo-4/clase-50',
+      'modulo-4/clase-51',
+      'modulo-4/clase-52',
+      'modulo-4/clase-53',
     ],
   },
 }
