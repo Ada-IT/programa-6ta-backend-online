@@ -23,6 +23,7 @@ GET /categorias/{id}/preguntas -> todas las preguntas de una categoria especific
 
 GET /preguntas -> obtinee las preguntas(TODAS) con sus respuesta
 
+```json
 [ {  
     "preguntaId": 1,
     "enunciado": "En que continente queda Rumania?",
@@ -76,8 +77,7 @@ GET /preguntas -> obtinee las preguntas(TODAS) con sus respuesta
                      "descripcion": "preguntas que le gustan a Mariana"}
  }
 ]
-                    
-
+```                
 
 POST /preguntas -> crear pregunta y opcionalmente con sus respuestas
 PUT /preguntas/{id} -> modifica una pregunta * y opcionalmente sus respuestas
@@ -95,6 +95,7 @@ GET /questionados/next
 
 GET /questionados/preguntas/categoria/{catId}/next
 
+```json
 {  
     "preguntaId": 1,
     "enunciado": "En que continente queda Rumania?",
@@ -113,21 +114,28 @@ GET /questionados/preguntas/categoria/{catId}/next
                      "nombre": "Geografia",
                      "descripcion": "preguntas que le gustan a Mariana"}
  }
-
+```
 
 POST /questionados/elecciones
- body:  {
+ body:  
+ ```json
+        {
           "preguntaId": 1,
           "respuestaId": 29 }
+```
 
 devuelve esto si me equivoque => 
+```json
    {
       "acertaste" : false }
+```
 
 devuelve esto si acerte => 
+
+```json
    {
       "acertaste" : true }
-
+```
 
 
 
