@@ -9,6 +9,7 @@ sidebar_label: 58) API Questionados
 ### 📝 Contenidos
 
 - Seguimos con el ejercicio! pero esta vez codean varias diferentes metodos y ayudandose entre si.
+Tambien en esta clase, al final cuando vimos las diferentes alternativas que armaron usando una funcion Existe, les mostre como creando un metodo en el repository, automagicamente podrian usarlo para poder ejecutar si existe o no alguna categoria en especial, por NOMBRE. La implementacion de algunos de estos metodos lo haremos a medida que avancemos con las clases, y si es necesario.
 
 Commits!(siempre repo de Brenda rama dev-todas):
 Se suben las 3 entidades con todas sus relaciones y su relacion bidireccional.
