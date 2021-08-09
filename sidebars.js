@@ -66,6 +66,23 @@ module.exports = {
       'modulo-4/clase-56',
       'modulo-4/clase-57',
       'modulo-4/clase-58',
+      'modulo-4/clase-59',
+      'modulo-4/clase-60',
+      'modulo-4/clase-61',
+      'modulo-4/clase-62',
+      'modulo-4/clase-63',
+      'modulo-4/clase-64',
+      'modulo-4/clase-65',
+      'modulo-4/clase-66',
+      'modulo-4/clase-67',
+      'modulo-4/clase-68',
+      'modulo-4/clase-69',
+      'modulo-4/clase-70',
+      'modulo-4/clase-71',
+      'modulo-4/clase-72',
+      'modulo-4/clase-73',
+      'modulo-4/clase-74'
+
     ],
   },
 }
