@@ -1,7 +1,7 @@
 ---
 id: clase-70
 title: Projecto Aladas -  Parte 9 de Muchas
-sidebar_label: 70) Parte 9 de MIL.
+sidebar_label: 70) API Aladas, 9 de MIL.
 ---
 
 

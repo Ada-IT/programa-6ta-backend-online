@@ -1,7 +1,7 @@
 ---
 id: clase-71
 title: Projecto Aladas -  Parte 10 de Muchas
-sidebar_label: 71) Parte 10 de MIL.
+sidebar_label: 71) API Aladas, 10 de MIL.
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 id: clase-72
 title: Projecto Aladas -  Parte 11 de Muchas
-sidebar_label: 72) Parte 11 de MIL.
+sidebar_label: 72) API Aladas, 11 de MIL.
 ---
 
 

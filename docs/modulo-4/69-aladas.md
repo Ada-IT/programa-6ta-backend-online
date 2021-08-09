@@ -1,7 +1,7 @@
 ---
 id: clase-69
 title: Projecto Aladas -  Parte 8 de Muchas - UNIT TESTING
-sidebar_label: 69) Parte 8 de MIL. -UNIT TESTING INTRO
+sidebar_label: 69) API Aladas, 8 de MIL. -UNIT TESTING INTRO
 ---
 
 

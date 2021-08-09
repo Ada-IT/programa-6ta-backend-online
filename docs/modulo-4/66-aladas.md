@@ -1,7 +1,7 @@
 ---
 id: clase-66
 title: Projecto Aladas -  Parte 5 de Muchas
-sidebar_label: 66) Parte 5 de MIL.
+sidebar_label: 66) API Aladas, 5 de MIL.
 ---
 
 

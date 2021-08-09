@@ -1,7 +1,7 @@
 ---
 id: clase-62
 title: Projecto Aladas -  Parte 1 de Muchas
-sidebar_label: 62) Parte 1 de MIL.
+sidebar_label: 62) API Aladas, 1 de MIL.
 ---
 
 

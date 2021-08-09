@@ -1,7 +1,7 @@
 ---
 id: clase-73
 title: Projecto Aladas -  Parte 12 de Muchas - JWT
-sidebar_label: 73) Parte 12 de MIL. JWT
+sidebar_label: 73) API Aladas, 12 de MIL. JWT
 ---
 
 
